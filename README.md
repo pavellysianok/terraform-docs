@@ -26,3 +26,6 @@ No inputs.
 
 No outputs.
 <!-- END_TF_DOCS -->
+
+## The documentation is here [](https://github.com/terraform-docs/gh-actions)
+<a href="https://github.com/terraform-docs/gh-actions">link</a>
