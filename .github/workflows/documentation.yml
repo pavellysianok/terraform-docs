@@ -17,6 +17,8 @@ jobs:
       uses: terraform-docs/gh-actions@main
       with:
         working-dir: .
+        recursive: true
+        git-push: true
         output-file: README.md
         output-method: inject
         git-push: "true"
