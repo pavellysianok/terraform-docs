@@ -21,4 +21,3 @@ jobs:
         git-push: true
         output-file: README.md
         output-method: inject
-        git-push: "true"
